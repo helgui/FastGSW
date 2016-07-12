@@ -1,2 +1,2 @@
 # FastGSW
-Speeded-up local stereo matching using geodesic support weights
+Implementation of speeded-up local stereo matching using geodesic support weights
